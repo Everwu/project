@@ -1,4 +1,7 @@
-public class leetcode_2 {
+package src;
+
+public class LC0002 {
+
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head = null;
         ListNode temp = null;
